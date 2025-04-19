@@ -10,6 +10,6 @@
   - Russian (basic)  
 - 🤝 Passionate about working in diverse teams and mentoring youth—volunteered to design creative educational activities for children and teens  
 - ⚡ Fun fact: As a teen, I taught myself to run minecraft-servers and build websites, fueling my lifelong curiosity for technology!
-
+- 🌐 My website: (https://kasem-rashrash.com) 
 - 📫 Reach me via GitHub DMs or email at kasemrrash@gmail.com  
 
