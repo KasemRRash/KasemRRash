@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kasem Rashrash, 24  
-- 🎓 B.Sc. Computer Science student at Hochschule Bremerhaven  
-- 💻 I’m building a strong foundation in software development and systems:  
+- 🎓 B.Sc. Computer Science student at Hochschule Bremerhaven   
 - **Languages & Tools**: Java, Bash, HTML/CSS, JavaScript, MariaDB/MySQL, Git, CI/CD, Docker, Linux  
 - **Experience**: Team projects using UML, project planning tools & technical documentation; Arduino & assembler for computer architecture; SQL & database design    
 - 🌍 Multilingual communicator:  
@@ -9,7 +8,6 @@
   - English (proficient in tech contexts)  
   - Russian (basic)  
 - 🤝 Passionate about working in diverse teams and mentoring youth—volunteered to design creative educational activities for children and teens  
-- ⚡ Fun fact: As a teen, I taught myself to run minecraft-servers and build websites, fueling my lifelong curiosity for technology!
 - 🌐 My website: (https://kasem-rashrash.com) 
 - 📫 Reach me via GitHub DMs or email at kasemrrash@gmail.com  
 
