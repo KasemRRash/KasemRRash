@@ -1,4 +1,4 @@
-# Hi, I'm Kasem Rashrash 👋💻
+# Hi, I'm Kasem Rashrash 👋
 
 **Informatikstudent | Webentwickler | Kreativer Technikliebhaber**
 
