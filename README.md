@@ -66,9 +66,15 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
 
 ---
 
-## 📈 GitHub Stats
 
-![Kasem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasemRRash&show_icons=true&theme=radical)
+<!-- ## 📈 GitHub Stats
+
+![Kasem's GitHub stats](https://github-readme-stats.vercel.app/api?username=KasemRRash&show_icons=true&theme=radical) -->
+
+## Top Sprachen
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasemRRash&layout=compact&theme=radical)
+
 
 
 
