@@ -12,7 +12,7 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
 - Bash-Scripting und Automatisierung  
 - Datenbanken (MySQL, Redis)  
 - Big Data und Echtzeitdaten  
-- Frontend mit HTML/Javascript und Tailwind CSS & Bootstrap  
+- Frontend mit HTML/CSS/Javascript
 - Kreative KI-Projekte und Microservices  
 
 > Mein Motto: **Lernen, anwenden, verbessern und nie den Spaß verlieren.**
