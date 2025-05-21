@@ -42,17 +42,12 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
 
 ## 📌 Aktuelle Projekte
 
-- **StudyFlow**  
-  Interaktive Webanwendung zur Anzeige von IT-Wissenshappen – mit API-Integration (YouTube Data, Unsplash, Wikipedia), Timer und Konzentrationsmusik.
-
-- **EV3-Linienfolger**  
-  Steuerung eines autonomen Roboters mit LEGO EV3, Java und leJOS – Linienverfolgung, Drehungen und Hindernisvermeidung.
 
 - **Impfregistrierung**  
   SPA (Single Page Application) mit JavaScript und Java-Servlets, PDF-Generierung und Redis-Integration für eine Impfverwaltung.
 
 - **StudyBot**  
-  Dashboard-Anwendung mit integriertem Chatbot (Gemini), To-Do-Liste, Lern-Timer und Kalender – alles in einem modernen Interface.
+  Dashboard-Anwendung mit integriertem Chatbot (Gemini), To-Do-Liste, Lern-Timer und Kalender - alles in einem modernen Interface.
 
 - **Infra-Rhodes**  
   Web-App zur Anzeige und Analyse von Schiffsbewegungen mit Leaflet-Livekarte, Tabellenansicht und Datenbankanbindung.
@@ -63,6 +58,11 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
 - **Logistik-20**  
   Datenbankprojekt zur digitalen Logistik der Zukunft mit SQL, MariaDB und relationalem Schema-Design.
 
+- **EV3-Linienfolger**  
+  Steuerung eines autonomen Roboters mit LEGO EV3, Java und leJOS – Linienverfolgung, Drehungen und Hindernisvermeidung. (in Bearbeitung...)
+
+- **StudyFlow**  
+  Interaktive Webanwendung zur Anzeige von IT-Wissenshappen – mit API-Integration (YouTube Data, Unsplash, Wikipedia), Timer und Konzentrationsmusik. (in Bearbeitung...)
 
 ---
 
