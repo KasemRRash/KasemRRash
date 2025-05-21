@@ -10,8 +10,7 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
 
 - Java OOP, Servlets und Webanwendungen  
 - Bash-Scripting und Automatisierung  
-- Datenbanken (MySQL, Redis)  
-- Big Data und Echtzeitdaten  
+- Datenbanken (MySQL)
 - Frontend mit HTML/CSS/Javascript
 - Kreative KI-Projekte und Microservices  
 
