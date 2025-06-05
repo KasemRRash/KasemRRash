@@ -12,7 +12,6 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
 - Bash-Scripting und Automatisierung  
 - Datenbanken (MySQL)
 - Frontend mit HTML/CSS/Javascript
-- Microservices  
 - Kreative KI-Projekte (automatische Textgenerierung, Bildklassifizierung, API-basierte Inhalte)
 - Erste praktische Erfahrungen mit Machine Learning & Deep Learning, ein eigenes Projekt zur Tumorerkennung mit neuronalen Netzen (CNN) in Python
 
