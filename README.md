@@ -54,7 +54,7 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
   SPA (Single Page Application) mit JavaScript und Java-Servlets, PDF-Generierung und Redis-Integration für eine Impfverwaltung.
 
 - **StudyBot**  
-  Dashboard-Anwendung mit integriertem Chatbot (Gemini), To-Do-Liste, Lern-Timer und Kalender - alles in einem modernen Interface.
+  Dashboard-Anwendung mit integriertem Chatbot (Gemini), To-Do-Liste, Lern-Timer und Kalender alles in einem modernen Interface.
 
 - **KI-Agenten Projekt**  
   Entwicklung und Integration von KI-Agenten mit Python, n8n und Prompt Engineering zur Automatisierung von Workflows und Datenanalyse. Fokus auf praxisnahe KI-Lösungen im Teamkontext. (in Bearbeitung...)
@@ -63,16 +63,16 @@ Ich arbeite gerne an praktischen Projekten. Von Webseiten über Java-Backends bi
   Web-App zur Anzeige und Analyse von Schiffsbewegungen mit Leaflet-Livekarte, Tabellenansicht und Datenbankanbindung.
 
 - **Ticketsystem**  
-  Support-Ticketsystem zur Bearbeitung von Anfragen über Webinterface – umgesetzt mit HTML und Bash-Skripten.
+  Support-Ticketsystem zur Bearbeitung von Anfragen über Webinterface umgesetzt mit HTML und Bash-Skripten.
 
 - **Logistik-20**  
   Datenbankprojekt zur digitalen Logistik der Zukunft mit SQL, MariaDB und relationalem Schema-Design.
 
 - **EV3-Linienfolger**  
-  Steuerung eines autonomen Roboters mit LEGO EV3, Java und leJOS – Linienverfolgung, Drehungen und Hindernisvermeidung. (in Bearbeitung...)
+  Steuerung eines autonomen Roboters mit LEGO EV3, Java und leJOS: Linienverfolgung, Drehungen und Hindernisvermeidung. (in Bearbeitung...)
 
 - **StudyFlow**  
-  Interaktive Webanwendung zur Anzeige von IT-Wissenshappen – mit API-Integration (YouTube Data, Unsplash, Wikipedia), Timer und Konzentrationsmusik. (in Bearbeitung...)
+  Interaktive Webanwendung zur Anzeige von IT-Wissenshappen mit API-Integration (YouTube Data, Unsplash, Wikipedia), Timer und Konzentrationsmusik. (in Bearbeitung...)
 
 ---
 
