@@ -108,13 +108,6 @@ Hochschule Bremerhaven – Since 2021
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KasemRRash&theme=tokyonight&hide_border=false" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KasemRRash&show_icons=true&theme=tokyonight&hide_border=false" height="170" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KasemRRash&theme=tokyonight" />
