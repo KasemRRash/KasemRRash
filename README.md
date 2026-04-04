@@ -64,7 +64,7 @@ Whether I'm building a vaccination registration system, training a CNN for tumor
 - Machine Learning project using CNN for medical image classification
 - 🔧 **Tech Used:** Python, TensorFlow, Deep Learning, Image Processing
 
-### 🤖 AI Agents Project (In Progress)
+### 🤖 AI Agents Project 
 - Development and integration of AI agents using Python, n8n, and prompt engineering
 - Focus on workflow automation and data analysis with practical AI solutions
 - 🔧 **Tech Used:** Python, n8n, OpenAI API, Gemini AI, Prompt Engineering
@@ -81,11 +81,11 @@ Whether I'm building a vaccination registration system, training a CNN for tumor
 - Database design for digital logistics of the future
 - 🔧 **Tech Used:** SQL, MariaDB, Relational Schema Design
 
-### 🤖 EV3 Line Follower Robot (In Progress)
+### 🤖 EV3 Line Follower Robot
 - Autonomous robot control with line following, turning, and obstacle avoidance
 - 🔧 **Tech Used:** Java, LEGO EV3, leJOS
 
-### 📚 StudyFlow Knowledge Platform (In Progress)
+### 📚 StudyFlow Knowledge Platform 
 - Interactive web app for IT knowledge with API integration and concentration features
 - 🔧 **Tech Used:** YouTube Data API, Unsplash API, Wikipedia API, JavaScript
 
