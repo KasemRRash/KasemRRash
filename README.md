@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:contact@kasem-rashrash.com"><img src="https://img.shields.io/badge/Email-contact@kasem--rashrash.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:kasemrrash@gmail.com"><img src="https://img.shields.io/badge/Email-contact@kasem--rashrash.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/kasem-rashrash"><img src="https://img.shields.io/badge/LinkedIn-KasemRashrash-0077B5?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/KasemRRash"><img src="https://img.shields.io/badge/GitHub-KasemRRash-181717?style=flat-square&logo=github"></a>
-  <a href="https://kasem-rashrash.com"><img src="https://img.shields.io/badge/Website-kasem--rashrash.com-4285F4?style=flat-square&logo=googlechrome"></a>
+
 </p>
 
 ---
@@ -134,11 +134,10 @@ Check out my latest thoughts and technical articles on [my blog](https://kasem-r
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="mailto:contact@kasem-rashrash.com">📧 Email</a> • 
+  <a href="mailto:kasrashrash@gmail.com">📧 Email</a> • 
   <a href="https://linkedin.com/in/kasem-rashrash">🔗 LinkedIn</a> • 
   <a href="https://github.com/KasemRRash">🐙 GitHub</a> • 
-  <a href="https://kasem-rashrash.com">🌐 Website</a> •
-  <a href="https://kasem-rashrash.com/blogs.html">📝 Blog</a>
+
 </p>
 
 <p align="center">
