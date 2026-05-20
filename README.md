@@ -73,20 +73,23 @@ AI-powered web application for analyzing brain MRI images, classifying tumor cas
 
 <p align="center">
   <a href="https://github.com/KasemRRash/tumor-detection-ai">
-    <img src="docs/images/tumorai-home-upload.png" alt="TumorAI upload interface" width="720">
+        <img src="https://github.com/KasemRRash/tumor-detection-ai/blob/main/docs/images/home-upload.png?raw=true" alt="TumorAI upload interface" width="720">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/KasemRRash/tumor-detection-ai">
-    <img src="docs/images/tumorai-detected-result.png" alt="TumorAI tumor detection result" width="360">
+        <img src="https://github.com/KasemRRash/tumor-detection-ai/blob/main/docs/images/tumor-detected-result.png?raw=true" alt="TumorAI tumor detection result" width="360">
+
   </a>
   <a href="https://github.com/KasemRRash/tumor-detection-ai">
-    <img src="docs/images/tumorai-no-tumor-result.png" alt="TumorAI no tumor result" width="360">
+       <img src="https://github.com/KasemRRash/tumor-detection-ai/blob/main/docs/images/no-tumor-result.png?raw=true" alt="TumorAI no tumor result" width="360">
+
   </a>
 </p>
 
 ---
+
 
 
 ### 🤖 [EV3 Java Robot](https://github.com/KasemRRash/ev3-java-robot)
