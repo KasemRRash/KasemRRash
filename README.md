@@ -66,6 +66,29 @@ Modern web dashboard with a Gemini chatbot, to-do list, learning timer, and cale
 
 ---
 
+### 🧠 [TumorAI](https://github.com/KasemRRash/tumor-detection-ai)
+AI-powered web application for analyzing brain MRI images, classifying tumor cases, and visualizing suspicious regions with Grad-CAM overlays.
+
+🔧 **Tech Used:** Python, Flask, TensorFlow, Keras, OpenCV, Grad-CAM, HTML, CSS, JavaScript
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/tumor-detection-ai">
+    <img src="docs/images/tumorai-home-upload.png" alt="TumorAI upload interface" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/tumor-detection-ai">
+    <img src="docs/images/tumorai-detected-result.png" alt="TumorAI tumor detection result" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/tumor-detection-ai">
+    <img src="docs/images/tumorai-no-tumor-result.png" alt="TumorAI no tumor result" width="360">
+  </a>
+</p>
+
+---
+
+
 ### 🤖 [EV3 Java Robot](https://github.com/KasemRRash/ev3-java-robot)
 Java project for programming LEGO Mindstorms EV3 robots with the leJOS library.
 
@@ -78,6 +101,8 @@ Java project for programming LEGO Mindstorms EV3 robots with the leJOS library.
 </p>
 
 ---
+
+
 
 ### 📚 [StudyFlow](https://github.com/KasemRRash/studyflow)
 IT knowledge platform with API integration for learning, research, and concentration features.
