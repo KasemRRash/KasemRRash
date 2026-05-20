@@ -51,28 +51,18 @@ Whether I'm building a study dashboard, programming an EV3 robot, designing a da
 - **Tools & Platforms:** Git, GitHub, VS Code, n8n
 - **Robotics:** LEGO EV3, leJOS
 
----
-
-## 📦 Highlight Projects
+# 📦 Highlight Projects
 
 ### 🤖 [StudyBot](https://github.com/KasemRRash/studybot)
 Modern web dashboard with a Gemini chatbot, to-do list, learning timer, and calendar.
 
 🔧 **Tech Used:** JavaScript, HTML, CSS, Gemini API, AI Chatbot
 
----
-
-### 📚 [StudyFlow](https://github.com/KasemRRash/studyflow)
-IT knowledge platform with API integration for learning, research, and concentration features.
-
-🔧 **Tech Used:** HTML, CSS, JavaScript, YouTube Data API, Unsplash API, Wikipedia API
-
----
-
-### 🚢 [Infrastruktur Project](https://github.com/KasemRRash/infrastruktur-project)
-Web application for displaying and analyzing ship movements with a live map, table view, and database integration.
-
-🔧 **Tech Used:** JavaScript, Leaflet.js, Database Integration, Web Development
+<p align="center">
+  <a href="https://github.com/KasemRRash/studybot">
+    <img src="https://github.com/user-attachments/assets/e92962e5-d5a0-48bd-b6de-fab9fb702a8f" alt="StudyBot screenshot" width="720">
+  </a>
+</p>
 
 ---
 
@@ -81,12 +71,56 @@ Java project for programming LEGO Mindstorms EV3 robots with the leJOS library.
 
 🔧 **Tech Used:** Java, LEGO EV3, leJOS, Robotics
 
+<p align="center">
+  <a href="https://www.youtube.com/shorts/B4VAbEeE6EU">
+    <img src="https://img.youtube.com/vi/B4VAbEeE6EU/maxresdefault.jpg" alt="EV3 Java Robot YouTube Short" width="360">
+  </a>
+</p>
+
+---
+
+### 📚 [StudyFlow](https://github.com/KasemRRash/studyflow)
+IT knowledge platform with API integration for learning, research, and concentration features.
+
+🔧 **Tech Used:** HTML, CSS, JavaScript, YouTube Data API, Unsplash API, Wikipedia API
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/studyflow">
+    <img src="https://github.com/user-attachments/assets/bbb14202-7c68-4361-ab58-39795d778acf" alt="StudyFlow screenshot" width="720">
+  </a>
+</p>
+
+---
+
+### 🚢 [Infrastruktur Project](https://github.com/KasemRRash/infrastruktur-project)
+Web application for displaying and analyzing ship movements with a live map, table view, and database integration.
+
+🔧 **Tech Used:** JavaScript, Leaflet.js, Database Integration, Web Development
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/infrastruktur-project">
+    <img src="https://github.com/user-attachments/assets/1241ce85-7b59-4d5e-914f-0404b606027a" alt="Infrastruktur Project screenshot" width="720">
+  </a>
+</p>
+
 ---
 
 ### 🧮 [Mind4Math](https://github.com/KasemRRash/mind4math)
 Calculator and visualization tool for computer science math fundamentals.
 
 🔧 **Tech Used:** Java, Mathematics, Computer Science Basics
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/mind4math">
+    <img src="https://github.com/user-attachments/assets/e10da24e-5b51-4a64-b478-11e1c2b24628" alt="Mind4Math screenshot 1" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/mind4math">
+    <img src="https://github.com/user-attachments/assets/8e8c49dc-7b5f-4924-ac09-f1aadd032bcf" alt="Mind4Math screenshot 2" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/mind4math">
+    <img src="https://github.com/user-attachments/assets/f2d14ae1-db74-42b7-90c0-ebb204e7eedd" alt="Mind4Math screenshot 3" width="360">
+  </a>
+</p>
 
 ---
 
@@ -95,6 +129,15 @@ Database project about the future of logistics with relational schema design.
 
 🔧 **Tech Used:** SQL, MariaDB, Relational Schema Design, Database Modeling
 
+<p align="center">
+  <a href="https://github.com/KasemRRash/logistics-20years">
+    <img src="https://github.com/user-attachments/assets/60120dfa-18b4-443f-a816-716b15ca27c8" alt="Logistics 20 Years screenshot 1" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/logistics-20years">
+    <img src="https://github.com/user-attachments/assets/e754058b-e05c-4ed8-9cca-71ba1c561c39" alt="Logistics 20 Years screenshot 2" width="360">
+  </a>
+</p>
+
 ---
 
 ### 🎫 [Ticket System](https://github.com/KasemRRash/ticketsystem)
@@ -102,12 +145,11 @@ Support ticket system for managing and processing customer requests.
 
 🔧 **Tech Used:** HTML, Bash Scripting, Web Interface
 
----
-
-### 🔐 [Cybersecurity 2026](https://github.com/KasemRRash/cybersecurity_2026)
-Exercises and practical tasks from the IT security module.
-
-🔧 **Tech Used:** Shell, Cybersecurity, Linux, Security Basics
+<p align="center">
+  <a href="https://github.com/KasemRRash/ticketsystem">
+    <img src="https://raw.githubusercontent.com/KasemRRash/ticketsystem/main/diagramme/anwendungsfall.png" alt="Ticket System diagram" width="720">
+  </a>
+</p>
 
 ---
 
@@ -116,12 +158,29 @@ Projects with Assembly and Arduino.
 
 🔧 **Tech Used:** Assembly, Arduino, Low-Level Programming
 
+<p align="center">
+  <a href="https://github.com/KasemRRash/assembler">
+    <img src="https://github.com/user-attachments/assets/e4eb1454-2403-4f29-b48a-ad5bfcdd53e3" alt="Assembler screenshot 1" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/assembler">
+    <img src="https://github.com/user-attachments/assets/064b101c-7834-4f97-8b76-53bebc746426" alt="Assembler screenshot 2" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/assembler">
+    <img src="https://github.com/user-attachments/assets/3da362bf-d1ae-4737-b55d-e04e85908199" alt="Assembler screenshot 3" width="360">
+  </a>
+</p>
+
 ---
 
 ### 🌐 [Portfolio Website](https://github.com/KasemRRash/porftolio_website)
 My personal portfolio website.
 
 🔧 **Tech Used:** HTML, CSS, JavaScript
+<p align="center">
+  <a href="https://www.youtube.com/shorts/SIU8AzIrDLw">
+    <img src="https://img.youtube.com/vi/SIU8AzIrDLw/maxresdefault.jpg" alt="Portfolio Website YouTube Short" width="360">
+  </a>
+</p>
 
 ---
 
