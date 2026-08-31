@@ -40,7 +40,7 @@ Whether I'm building a study dashboard, programming an EV3 robot, designing a da
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,tailwind,mysql,bash,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,bash,php,cpp,js,html,css,tailwind,mysql,git,github,gitlab,docker,vscode&perline=8" />
 </p>
 
 - **Languages:** Java, Python, JavaScript, Bash, SQL, HTML5, CSS3
