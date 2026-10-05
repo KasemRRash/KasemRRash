@@ -60,7 +60,7 @@ Map-based job discovery with local AI analysis, source-linked requirement eviden
 
 <p align="center">
   <a href="https://github.com/KasemRRash/mapploy">
-    <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/job-map.png?raw=true" alt="Mapploy job search with an interactive map and job details" width="720">
+    <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/job-map-3d.png?raw=true" alt="Mapploy job search with a 3D map of Bremen and job details" width="720">
   </a>
 </p>
 
@@ -70,6 +70,12 @@ Map-based job discovery with local AI analysis, source-linked requirement eviden
   </a>
   <a href="https://github.com/KasemRRash/mapploy">
     <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/cv-review.png?raw=true" alt="Mapploy local CV completeness checklist with a fictional demo CV" width="360">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/mapploy/blob/main/docs/images/feature-overview.jpg">
+    <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/feature-overview.jpg?raw=true" alt="Mapploy feature overview: interests, map, local AI analysis, CV upload, checklist and requirement matching" width="720">
   </a>
 </p>
 
