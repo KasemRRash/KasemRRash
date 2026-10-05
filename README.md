@@ -53,6 +53,29 @@ Whether I'm building a study dashboard, programming an EV3 robot, designing a da
 
 # 📦 Highlight Projects
 
+### 🗺️ [Mapploy](https://github.com/KasemRRash/mapploy)
+Map-based job discovery with local AI analysis, source-linked requirement evidence, and private CV review. Combines employer job feeds, an interactive map, and a transparent CV checklist in one workspace.
+
+🔧 **Tech Used:** Java, Spring Boot, Spring AI, Ollama, PostgreSQL, JavaScript, MapLibre GL JS
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/mapploy">
+    <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/job-map.png?raw=true" alt="Mapploy job search with an interactive map and job details" width="720">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/mapploy">
+    <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/job-analysis.png?raw=true" alt="Mapploy local AI analysis with evidence from the original job advertisement" width="360">
+  </a>
+  <a href="https://github.com/KasemRRash/mapploy">
+    <img src="https://github.com/KasemRRash/mapploy/blob/main/docs/images/cv-review.png?raw=true" alt="Mapploy local CV completeness checklist with a fictional demo CV" width="360">
+  </a>
+</p>
+
+---
+
+
 ### 🤖 [StudyBot](https://github.com/KasemRRash/studybot)
 Modern web dashboard with a Gemini chatbot, to-do list, learning timer, and calendar.
 
