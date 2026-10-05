@@ -19,13 +19,13 @@
 
 Hi there! I'm **Kasem Rashrash**, a passionate **Computer Science Student** at **Hochschule Bremerhaven**.
 
-I enjoy building practical software projects that combine **web development**, **Java backend logic**, **databases**, **automation**, and **AI-powered features**. I like turning ideas into real projects that are useful, clean, and easy to understand.
+My focus is **Java backend development and AI-powered applications**, combining **Spring Boot**, **Spring AI**, **databases**, and **web development** to turn ideas into useful software. I'm expanding this foundation through focused study of **retrieval-augmented generation (RAG)**, **AI agents**, and **LLM integration**.
 
 I'm passionate about:
 
 - ✨ Building **web applications** with clean and maintainable code
 - 🚀 Developing **Java applications** with object-oriented programming principles
-- 🤖 Exploring **AI tools, chatbots, and API integrations**
+- 🤖 Building **AI-powered features** and deepening my skills in **Spring AI, RAG, and tool-calling agents**
 - 🛠️ Automating workflows with **Bash scripting**
 - 🗄️ Designing and working with **SQL databases**
 - 🎨 Creating intuitive and user-friendly interfaces
@@ -45,11 +45,26 @@ Whether I'm building a study dashboard, programming an EV3 robot, designing a da
 
 - **Languages:** Java, Python, JavaScript, Bash, SQL, HTML5, CSS3
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Bootstrap
-- **Backend:** Java, Servlets, Bash scripting
-- **Databases:** MySQL, MariaDB, Redis
-- **AI & APIs:** Gemini API, OpenAI API, API integration, Prompt Engineering
-- **Tools & Platforms:** Git, GitHub, VS Code, n8n
+- **Backend:** Java, Spring Boot, Spring AI, Servlets, Bash scripting
+- **Databases:** PostgreSQL, MySQL, MariaDB, Redis
+- **AI & APIs:** Spring AI, OpenAI API, Gemini API, Ollama, LLM integration, Prompt Engineering
+- **Tools & Platforms:** Git, GitHub, Docker, VS Code, n8n
 - **Robotics:** LEGO EV3, leJOS
+
+## 🤖 Generative AI & Spring AI
+
+**Course-based specialization:** connecting Java backend development with LLMs, retrieval pipelines, and AI agent workflows.
+
+- **LLM application development:** Spring AI ChatClient and ChatModel, streaming responses, structured output, prompt templates, model configuration, and custom advisors.
+- **Cloud & local models:** OpenAI, Google Gemini / Vertex AI, Hugging Face, Ollama, and Docker Model Runner; integrating different model providers through Spring AI.
+- **Retrieval-Augmented Generation (RAG):** document ingestion, chunking, embeddings, PostgreSQL / pgvector, and semantic search; advanced retrieval with metadata filtering, query transformation and expansion, reranking, and source citations.
+- **AI agents & tool calling:** function calling, chained workflows, and Human-in-the-Loop patterns with approval steps, checkpoint-based state machines, and persistent pause/resume.
+- **Model Context Protocol (MCP):** Spring AI client and server integration, remote tool access, and communication through SSE and Streamable HTTP.
+- **Conversation memory & multimodality:** in-memory and JDBC chat history, vector-backed long-term memory, image understanding and generation, speech-to-text, and text-to-speech.
+- **Prompt engineering & AI security:** zero-shot and few-shot prompting, output validation, and mitigation strategies for prompt injection, jailbreaking, and prompt leakage.
+- **Observability:** logs, metrics, and distributed tracing for AI applications, including Grafana, Jaeger, and trace correlation across MCP clients and servers.
+
+---
 
 # 📦 Highlight Projects
 
