@@ -266,7 +266,7 @@ Configuration files for my GitHub profile.
 ## 🎓 Education
 
 **Bachelor of Science in Computer Science**  
-Hochschule Bremerhaven - Since 2021
+Hochschule Bremerhaven - Since 2023
 
 **Key Areas of Study:**
 
