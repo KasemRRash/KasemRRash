@@ -177,41 +177,6 @@ Web application for displaying and analyzing ship movements with a live map, tab
 
 ---
 
-### 🧮 [Mind4Math](https://github.com/KasemRRash/mind4math)
-Calculator and visualization tool for computer science math fundamentals.
-
-🔧 **Tech Used:** Java, Mathematics, Computer Science Basics
-
-<p align="center">
-  <a href="https://github.com/KasemRRash/mind4math">
-    <img src="https://github.com/user-attachments/assets/e10da24e-5b51-4a64-b478-11e1c2b24628" alt="Mind4Math screenshot 1" width="360">
-  </a>
-  <a href="https://github.com/KasemRRash/mind4math">
-    <img src="https://github.com/user-attachments/assets/8e8c49dc-7b5f-4924-ac09-f1aadd032bcf" alt="Mind4Math screenshot 2" width="360">
-  </a>
-  <a href="https://github.com/KasemRRash/mind4math">
-    <img src="https://github.com/user-attachments/assets/f2d14ae1-db74-42b7-90c0-ebb204e7eedd" alt="Mind4Math screenshot 3" width="360">
-  </a>
-</p>
-
----
-
-### 📦 [Logistics 20 Years](https://github.com/KasemRRash/logistics-20years)
-Database project about the future of logistics with relational schema design.
-
-🔧 **Tech Used:** SQL, MariaDB, Relational Schema Design, Database Modeling
-
-<p align="center">
-  <a href="https://github.com/KasemRRash/logistics-20years">
-    <img src="https://github.com/user-attachments/assets/60120dfa-18b4-443f-a816-716b15ca27c8" alt="Logistics 20 Years screenshot 1" width="360">
-  </a>
-  <a href="https://github.com/KasemRRash/logistics-20years">
-    <img src="https://github.com/user-attachments/assets/e754058b-e05c-4ed8-9cca-71ba1c561c39" alt="Logistics 20 Years screenshot 2" width="360">
-  </a>
-</p>
-
----
-
 ### 🎫 [Ticket System](https://github.com/KasemRRash/ticketsystem)
 Support ticket system for managing and processing customer requests.
 
