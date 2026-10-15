@@ -97,6 +97,19 @@ Map-based job discovery with local AI analysis, source-linked requirement eviden
 ---
 
 
+### 💉 [IRA – Impfregistrierung](https://github.com/KasemRRash/swe3-impfanwendungs_registrierung)
+Web application for vaccination registration and appointment management. Supports user registration and login, browsing vaccination centers, and booking or cancelling appointments.
+
+🔧 **Tech Used:** Java, Jakarta Servlets, JavaScript, HTML, CSS, SQL, Redis, Bash
+
+<p align="center">
+  <a href="https://github.com/KasemRRash/swe3-impfanwendungs_registrierung">
+    <img src="https://github.com/user-attachments/assets/244996f3-5b81-4737-9ce4-a0e0888e2618" alt="IRA vaccination registration application" width="720">
+  </a>
+</p>
+
+---
+
 ### 🤖 [StudyBot](https://github.com/KasemRRash/studybot)
 Modern web dashboard with a Gemini chatbot, to-do list, learning timer, and calendar.
 
