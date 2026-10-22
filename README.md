@@ -43,7 +43,7 @@ Whether I'm building a study dashboard, programming an EV3 robot, designing a da
   <img src="https://skillicons.dev/icons?i=java,spring,python,bash,php,cpp,js,html,css,tailwind,mysql,git,github,gitlab,docker,vscode&perline=8" />
 </p>
 
-- **Languages:** Java, Python, JavaScript, Bash, SQL, HTML5, CSS3
+- **Languages:** Java, Python, PHP, JavaScript, Bash, SQL, HTML5, CSS3
 - **Frontend:** HTML, CSS, JavaScript, TailwindCSS, Bootstrap
 - **Backend:** Java, Spring Boot, Spring AI, Servlets, Bash scripting
 - **Databases:** PostgreSQL, MySQL, MariaDB, Redis
